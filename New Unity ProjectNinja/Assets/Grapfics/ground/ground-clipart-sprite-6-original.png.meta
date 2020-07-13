@@ -1,0 +1,998 @@
+fileFormatVersion: 2
+guid: be75cc0acc25e8f418c5c31c37cd756b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5887806225035006344
+    second: ground1
+  - first:
+      213: -7054658208667353004
+    second: ground2
+  - first:
+      213: 4788975149288979782
+    second: ground3
+  - first:
+      213: -4243529215523014142
+    second: ground-clipart-sprite-6-original_3
+  - first:
+      213: 9091441227357324702
+    second: ground_part4
+  - first:
+      213: 483316212767097484
+    second: ground_part5
+  - first:
+      213: 4801568986813512224
+    second: ground-clipart-sprite-6-original_6
+  - first:
+      213: 3421345232035216324
+    second: ground-clipart-sprite-6-original_7
+  - first:
+      213: 8479247905752383604
+    second: ground-clipart-sprite-6-original_8
+  - first:
+      213: -7415459708341353021
+    second: ground-clipart-sprite-6-original_9
+  - first:
+      213: -5739575114350150150
+    second: ground_part6
+  - first:
+      213: 355625169820401782
+    second: ground_part7
+  - first:
+      213: 6683006380659148228
+    second: ground-clipart-sprite-6-original_12
+  - first:
+      213: -8720631249020798202
+    second: ground-clipart-sprite-6-original_13
+  - first:
+      213: -6881866517176409881
+    second: ground-clipart-sprite-6-original_14
+  - first:
+      213: -6189409376769491007
+    second: ground-clipart-sprite-6-original_15
+  - first:
+      213: -6948411617813547671
+    second: ground-clipart-sprite-6-original_16
+  - first:
+      213: 5895274172790841881
+    second: ground-clipart-sprite-6-original_17
+  - first:
+      213: 7075576121537763829
+    second: ground-clipart-sprite-6-original_18
+  - first:
+      213: 5954654335253429378
+    second: ground-clipart-sprite-6-original_19
+  - first:
+      213: -2170969056247879249
+    second: ground-clipart-sprite-6-original_20
+  - first:
+      213: -2473764637299308551
+    second: ground-clipart-sprite-6-original_21
+  - first:
+      213: -2319406500433809670
+    second: ground-clipart-sprite-6-original_22
+  - first:
+      213: 1279039174613873089
+    second: ground-clipart-sprite-6-original_23
+  - first:
+      213: 3344731553525907477
+    second: ground-clipart-sprite-6-original_24
+  - first:
+      213: 4089092681025218529
+    second: ground-clipart-sprite-6-original_25
+  - first:
+      213: 620726921243580977
+    second: ground-clipart-sprite-6-original_26
+  - first:
+      213: 6440927055209602853
+    second: ground-clipart-sprite-6-original_27
+  - first:
+      213: 5765854527950570725
+    second: ground-clipart-sprite-6-original_28
+  - first:
+      213: 8896656992001328904
+    second: ground-clipart-sprite-6-original_29
+  - first:
+      213: 7946595075353757321
+    second: ground-clipart-sprite-6-original_30
+  - first:
+      213: 4359496546087811339
+    second: ground-clipart-sprite-6-original_31
+  - first:
+      213: -218440504143475732
+    second: ground-clipart-sprite-6-original_32
+  - first:
+      213: 1158294023818117959
+    second: ground-clipart-sprite-6-original_33
+  - first:
+      213: -1082297255822630365
+    second: ground-clipart-sprite-6-original_34
+  - first:
+      213: 1631975015190582956
+    second: ground-clipart-sprite-6-original_35
+  - first:
+      213: 4896031499938534314
+    second: ground-clipart-sprite-6-original_36
+  - first:
+      213: 6051325450433607440
+    second: ground-clipart-sprite-6-original_37
+  - first:
+      213: -2897813396514127830
+    second: ground-clipart-sprite-6-original_38
+  - first:
+      213: 5781150471565792398
+    second: ground-clipart-sprite-6-original_39
+  - first:
+      213: -3473888902656642270
+    second: ground-clipart-sprite-6-original_40
+  - first:
+      213: 5435882873556883301
+    second: ground-clipart-sprite-6-original_41
+  - first:
+      213: 6661573556689716737
+    second: ground-clipart-sprite-6-original_42
+  - first:
+      213: 5292183245831877639
+    second: ground-clipart-sprite-6-original_43
+  - first:
+      213: -7781056035791513557
+    second: ground-clipart-sprite-6-original_44
+  - first:
+      213: -1451891557860149875
+    second: ground-clipart-sprite-6-original_45
+  - first:
+      213: 7764108874959208587
+    second: ground-clipart-sprite-6-original_46
+  - first:
+      213: 5791163356051099068
+    second: ground-clipart-sprite-6-original_47
+  - first:
+      213: 4476699314868889408
+    second: ground-clipart-sprite-6-original_48
+  - first:
+      213: 609335617317470543
+    second: ground-clipart-sprite-6-original_49
+  - first:
+      213: -9158177093612336018
+    second: ground-clipart-sprite-6-original_50
+  - first:
+      213: -5663513096711283374
+    second: ground-clipart-sprite-6-original_51
+  - first:
+      213: -6770926859878229979
+    second: ground-clipart-sprite-6-original_52
+  - first:
+      213: 7125753139242554814
+    second: ground-clipart-sprite-6-original_53
+  - first:
+      213: -7042953978359178485
+    second: ground-clipart-sprite-6-original_54
+  - first:
+      213: -981312459912627106
+    second: ground-clipart-sprite-6-original_55
+  - first:
+      213: -5980526746863894964
+    second: ground-clipart-sprite-6-original_56
+  - first:
+      213: -4311064819800267748
+    second: ground-clipart-sprite-6-original_57
+  - first:
+      213: -6467148010314876048
+    second: ground-clipart-sprite-6-original_58
+  - first:
+      213: 1197917466574754235
+    second: ground-clipart-sprite-6-original_59
+  - first:
+      213: -3885814101876690477
+    second: ground-clipart-sprite-6-original_60
+  - first:
+      213: 6471459628461996079
+    second: ground-clipart-sprite-6-original_61
+  - first:
+      213: -416276001322736434
+    second: ground-clipart-sprite-6-original_62
+  - first:
+      213: -8748695475532447308
+    second: ground-clipart-sprite-6-original_63
+  - first:
+      213: 8978795140182592165
+    second: ground-clipart-sprite-6-original_64
+  - first:
+      213: 882585750926348259
+    second: ground-clipart-sprite-6-original_65
+  - first:
+      213: 7135212158097143166
+    second: ground-clipart-sprite-6-original_66
+  - first:
+      213: 1295486787459932418
+    second: ground-clipart-sprite-6-original_67
+  - first:
+      213: 2190311927432061117
+    second: ground-clipart-sprite-6-original_68
+  - first:
+      213: 6545592989398446042
+    second: ground-clipart-sprite-6-original_69
+  - first:
+      213: 7736324269512258152
+    second: ground-clipart-sprite-6-original_70
+  - first:
+      213: -4579970636885941032
+    second: ground-clipart-sprite-6-original_71
+  - first:
+      213: 1533850018708988087
+    second: ground-clipart-sprite-6-original_72
+  - first:
+      213: -7622844736515475291
+    second: ground-clipart-sprite-6-original_73
+  - first:
+      213: -3955870603906056219
+    second: ground-clipart-sprite-6-original_74
+  - first:
+      213: 7691298472343256455
+    second: ground-clipart-sprite-6-original_75
+  - first:
+      213: -8080891801394230679
+    second: ground-clipart-sprite-6-original_76
+  - first:
+      213: -3616797490707461586
+    second: ground-clipart-sprite-6-original_77
+  - first:
+      213: 3458642380376755145
+    second: ground-clipart-sprite-6-original_78
+  - first:
+      213: -8925009369900890860
+    second: ground-clipart-sprite-6-original_79
+  - first:
+      213: 2922294584265261119
+    second: ground-clipart-sprite-6-original_80
+  - first:
+      213: 8543306793869368114
+    second: ground-clipart-sprite-6-original_81
+  - first:
+      213: -5935675897609377286
+    second: ground-clipart-sprite-6-original_82
+  - first:
+      213: 1497271838233218774
+    second: ground-clipart-sprite-6-original_83
+  - first:
+      213: -2234400494063263311
+    second: ground-clipart-sprite-6-original_84
+  - first:
+      213: -6004649713315314897
+    second: ground-clipart-sprite-6-original_85
+  - first:
+      213: -3867067629406882071
+    second: ground-clipart-sprite-6-original_86
+  - first:
+      213: -2197948300530218875
+    second: ground-clipart-sprite-6-original_87
+  - first:
+      213: 467649391179698753
+    second: ground-clipart-sprite-6-original_88
+  - first:
+      213: -5916594366983535826
+    second: ground-clipart-sprite-6-original_89
+  - first:
+      213: -2438149598791471188
+    second: ground-clipart-sprite-6-original_90
+  - first:
+      213: 8878453494812215886
+    second: ground-clipart-sprite-6-original_91
+  - first:
+      213: -3306594513092209786
+    second: ground-clipart-sprite-6-original_92
+  - first:
+      213: -8565413372701068193
+    second: ground-clipart-sprite-6-original_93
+  - first:
+      213: 923226311808911179
+    second: ground-clipart-sprite-6-original_94
+  - first:
+      213: 7017075503020218760
+    second: ground-clipart-sprite-6-original_95
+  - first:
+      213: 1835359821959434091
+    second: ground-clipart-sprite-6-original_96
+  - first:
+      213: 8662505958401899262
+    second: ground-clipart-sprite-6-original_97
+  - first:
+      213: -7166462324494002987
+    second: ground-clipart-sprite-6-original_98
+  - first:
+      213: -1790405157651100077
+    second: ground-clipart-sprite-6-original_99
+  - first:
+      213: 784123957861997733
+    second: ground-clipart-sprite-6-original_100
+  - first:
+      213: -4837665719549849819
+    second: ground-clipart-sprite-6-original_101
+  - first:
+      213: 2337299374707941802
+    second: ground-clipart-sprite-6-original_102
+  - first:
+      213: -119216768276154183
+    second: ground-clipart-sprite-6-original_103
+  - first:
+      213: -4566561715591722717
+    second: ground-clipart-sprite-6-original_104
+  - first:
+      213: 6284499125669484130
+    second: ground-clipart-sprite-6-original_105
+  - first:
+      213: 5815828986490925201
+    second: ground-clipart-sprite-6-original_106
+  - first:
+      213: 3908392170389449158
+    second: ground-clipart-sprite-6-original_107
+  - first:
+      213: -2204124300862266366
+    second: ground-clipart-sprite-6-original_108
+  - first:
+      213: -2038325466953671102
+    second: ground-clipart-sprite-6-original_109
+  - first:
+      213: 2810116989079165580
+    second: ground-clipart-sprite-6-original_110
+  - first:
+      213: -4752490344263800564
+    second: ground-clipart-sprite-6-original_111
+  - first:
+      213: -5567817886530748248
+    second: ground-clipart-sprite-6-original_112
+  - first:
+      213: 1423195821382385714
+    second: ground-clipart-sprite-6-original_113
+  - first:
+      213: -5590720878762051284
+    second: ground-clipart-sprite-6-original_114
+  - first:
+      213: -5653687980420810776
+    second: ground-clipart-sprite-6-original_115
+  - first:
+      213: 4996697868975283239
+    second: ground-clipart-sprite-6-original_116
+  - first:
+      213: -6259642360700172675
+    second: ground-clipart-sprite-6-original_117
+  - first:
+      213: -6702120904982180182
+    second: ground-clipart-sprite-6-original_118
+  - first:
+      213: 917249212738538658
+    second: ground-clipart-sprite-6-original_119
+  - first:
+      213: 8558289935770403775
+    second: ground-clipart-sprite-6-original_120
+  - first:
+      213: 6337918338869838270
+    second: ground-clipart-sprite-6-original_121
+  - first:
+      213: 6698415180816388726
+    second: ground-clipart-sprite-6-original_122
+  - first:
+      213: -1222161350163698960
+    second: ground-clipart-sprite-6-original_123
+  - first:
+      213: -5575845114738351245
+    second: ground-clipart-sprite-6-original_124
+  - first:
+      213: -3512615401569393613
+    second: ground-clipart-sprite-6-original_125
+  - first:
+      213: -3916046202062279765
+    second: ground-clipart-sprite-6-original_126
+  - first:
+      213: 2781915874586376228
+    second: ground-clipart-sprite-6-original_127
+  - first:
+      213: 848468220011582724
+    second: ground-clipart-sprite-6-original_128
+  - first:
+      213: -4261651245725529553
+    second: ground-clipart-sprite-6-original_129
+  - first:
+      213: -2534564431074194461
+    second: ground-clipart-sprite-6-original_130
+  - first:
+      213: -6882429695837298834
+    second: ground-clipart-sprite-6-original_131
+  - first:
+      213: 7411831322743080153
+    second: ground-clipart-sprite-6-original_132
+  - first:
+      213: 1827270810511937299
+    second: ground-clipart-sprite-6-original_133
+  - first:
+      213: 3598278604817443380
+    second: ground-clipart-sprite-6-original_134
+  - first:
+      213: -3963919616599784653
+    second: ground-clipart-sprite-6-original_135
+  - first:
+      213: 5181760696584808818
+    second: ground-clipart-sprite-6-original_136
+  - first:
+      213: -4943002505618350579
+    second: ground-clipart-sprite-6-original_137
+  - first:
+      213: -6905190537313778943
+    second: ground-clipart-sprite-6-original_138
+  - first:
+      213: -3960277674158330003
+    second: ground-clipart-sprite-6-original_139
+  - first:
+      213: -4912683813383804123
+    second: ground-clipart-sprite-6-original_140
+  - first:
+      213: -3887516783251292748
+    second: ground-clipart-sprite-6-original_141
+  - first:
+      213: -8439916799577474907
+    second: ground-clipart-sprite-6-original_142
+  - first:
+      213: -1101845276568862229
+    second: ground-clipart-sprite-6-original_143
+  - first:
+      213: 8634209212788257913
+    second: ground-clipart-sprite-6-original_144
+  - first:
+      213: 1973852817646872927
+    second: ground-clipart-sprite-6-original_145
+  - first:
+      213: 6273066916704112039
+    second: ground-clipart-sprite-6-original_146
+  - first:
+      213: -1297144789614878005
+    second: ground-clipart-sprite-6-original_147
+  - first:
+      213: -1232192326411943171
+    second: ground-clipart-sprite-6-original_148
+  - first:
+      213: -6032545836077478198
+    second: ground-clipart-sprite-6-original_149
+  - first:
+      213: 616381800299882556
+    second: ground-clipart-sprite-6-original_150
+  - first:
+      213: 330016854024880857
+    second: ground-clipart-sprite-6-original_151
+  - first:
+      213: 103356351222750122
+    second: ground-clipart-sprite-6-original_152
+  - first:
+      213: -9074557203120660782
+    second: ground-clipart-sprite-6-original_153
+  - first:
+      213: 8910013831844587372
+    second: ground-clipart-sprite-6-original_154
+  - first:
+      213: -6461560701956983987
+    second: ground-clipart-sprite-6-original_155
+  - first:
+      213: 4599862872141508951
+    second: ground-clipart-sprite-6-original_156
+  - first:
+      213: 4774339262368528308
+    second: ground-clipart-sprite-6-original_157
+  - first:
+      213: 1567085260448563441
+    second: ground-clipart-sprite-6-original_158
+  - first:
+      213: -3921918303996542927
+    second: ground-clipart-sprite-6-original_159
+  - first:
+      213: 948940088127709932
+    second: ground-clipart-sprite-6-original_160
+  - first:
+      213: 5255507924807225457
+    second: ground-clipart-sprite-6-original_161
+  - first:
+      213: -8484835650510036306
+    second: ground-clipart-sprite-6-original_162
+  - first:
+      213: -6242335282850134840
+    second: ground-clipart-sprite-6-original_163
+  - first:
+      213: -8893465398173690966
+    second: ground-clipart-sprite-6-original_164
+  - first:
+      213: -2910271080720374560
+    second: ground-clipart-sprite-6-original_165
+  - first:
+      213: 5300923855228615403
+    second: ground-clipart-sprite-6-original_166
+  - first:
+      213: 7823148907803111676
+    second: ground-clipart-sprite-6-original_167
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 256
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e647aee6f4a4ea0800000000000000
+      internalID: -5887806225035006344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 561
+        width: 256
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c6948cb1d81e90800000000000000
+      internalID: -7054658208667353004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 575
+        width: 256
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dfa83768bd57240800000000000000
+      internalID: 4788975149288979782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 831
+        width: 248
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a32c269a4fb15c0800000000000000
+      internalID: -4243529215523014142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_part4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 256
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9589f4b0a94b2e70800000000000000
+      internalID: 9091441227357324702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_part5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 157
+        width: 276
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c828b28e88515b600800000000000000
+      internalID: 483316212767097484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 160
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3d8fbd8992a240800000000000000
+      internalID: 4801568986813512224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 323
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb7f698c5f0b7f20800000000000000
+      internalID: 3421345232035216324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_8
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 317
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47088d89b075ca570800000000000000
+      internalID: 8479247905752383604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_9
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 366
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5871e1faef61990800000000000000
+      internalID: -7415459708341353021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_part6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 256
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdbc73d7dee850b0800000000000000
+      internalID: -5739575114350150150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_part7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 12
+        width: 256
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6704550353f6fe400800000000000000
+      internalID: 355625169820401782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 26
+        width: 256
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c58bd625eecebc50800000000000000
+      internalID: 6683006380659148228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 27
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bb1f835181af680800000000000000
+      internalID: -8720631249020798202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 26
+        width: 35
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0ab044dd2be70a0800000000000000
+      internalID: -6881866517176409881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_15
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 34
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbe28f6fcca1aa0800000000000000
+      internalID: -6189409376769491007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 83
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b607a278429f90800000000000000
+      internalID: -6948411617813547671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground-clipart-sprite-6-original_17
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 50
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912abba20a830d150800000000000000
+      internalID: 5895274172790841881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
